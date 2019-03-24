@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/jest": "^24.0.5",
     "@types/node": "^10.12.24",
-    "@testdeck/jest": "^0.0.1",
+    "@testdeck/jest": "latest",
     "jest": "^23.6.0",
     "reflect-metadata": "^0.1.13",
     "ts-jest": "^23.10.5",
