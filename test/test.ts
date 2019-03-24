@@ -11,7 +11,7 @@ class Suite1 {
 @suite
 class Suite2 {
     @test
-    async(done) {
+    async(done: () => void) {
         done();
     }
 }
