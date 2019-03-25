@@ -8,7 +8,7 @@
     "url": "https://github.com/testdeck/testdeck-jest-seed"
   },
   "scripts": {
-    "test": "jest --coverage --testRegex '^.*test.ts'"
+    "test": "jest --coverage test/test.ts"
   },
   "devDependencies": {
     "@types/jest": "*",
