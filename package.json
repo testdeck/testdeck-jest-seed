@@ -11,13 +11,13 @@
     "test": "jest --coverage test/test.ts"
   },
   "devDependencies": {
-    "@types/jest": "*",
-    "@types/node": "*",
-    "@testdeck/jest": "*",
-    "ts-jest": "*",
-    "jest": "*",
-    "reflect-metadata": "*",
-    "tslint": "*",
-    "typescript": "*"
+    "@types/jest": "latest",
+    "@types/node": "latest",
+    "@testdeck/jest": "latest",
+    "ts-jest": "latest",
+    "jest": "latest",
+    "reflect-metadata": "latest",
+    "tslint": "latest",
+    "typescript": "latest"
   }
 }
